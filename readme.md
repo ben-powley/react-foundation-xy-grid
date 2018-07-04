@@ -16,6 +16,8 @@ React components for the xy grid in Foundation.
   - marginX
 - `<Cell />`
   - sizes - Maps to class names e.g. small-8 large-6
+  - offsets - Maps to class names e.g. small-offset-4
+  - shrink
 
 ### Example
 
