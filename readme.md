@@ -6,11 +6,13 @@ React components for the xy grid in Foundation.
 
 ### Components (with props)
 
-* `<GridContainer />`
-    * full
-    * fullMedium
-* `<Grid />`
-    * paddingY
-    * paddingX
-* `<Cell />`
-    * sizes - Maps to class names e.g. small-8 large-6
+- `<GridContainer />`
+  - full
+  - fullMedium
+- `<Grid />`
+  - paddingY
+  - paddingX
+  - marginY
+  - marginX
+- `<Cell />`
+  - sizes - Maps to class names e.g. small-8 large-6
