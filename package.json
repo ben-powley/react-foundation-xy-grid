@@ -2,7 +2,7 @@
   "name": "react-foundation-xy-grid",
   "version": "0.3.0",
   "description": "React components for the foudnation x-y grid",
-  "main": "index.js",
+  "main": "./dist/bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
