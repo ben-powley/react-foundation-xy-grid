@@ -1,6 +1,6 @@
 {
   "name": "react-foundation-xy-grid",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "React components for the foudnation x-y grid",
   "main": "./dist/bundle.js",
   "scripts": {
