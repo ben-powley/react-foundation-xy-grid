@@ -16,3 +16,18 @@ React components for the xy grid in Foundation.
   - marginX
 - `<Cell />`
   - sizes - Maps to class names e.g. small-8 large-6
+
+### Example
+
+```javascript
+<GridContainer full>
+  <Grid marginX marginY>
+    <Cell sizes="medium-6">
+      <p>Hello</p>
+    </Cell>
+    <Cell sizes="medium-6">
+      <p>World</p>
+    </Cell>
+  </Grid>
+</GridContainer>
+```
