@@ -14,8 +14,7 @@ class Cell extends Component {
     if (this.props.style) styles = this.props.style;
 
     if (this.props.shrink) classNames += " shrink";
-    else classNames += " auto";
-
+    
     return (
       <div className={classNames} style={styles}>
         {this.props.children}
